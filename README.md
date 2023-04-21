@@ -9,8 +9,7 @@ IS3107_Repository
 ├───Final DAGs
 │    │─── glassdoor_company_dag_final.py
 │    │─── glassdoor_role_dag_final.py
-│    │─── webscrape_all_job_postings.py
-│    └─── webscrape_job_postings.py
+│    └─── webscrape_all_job_postings.py
 │
 ├───Individual DAGs
 │    │─── webscrape_glassdoor.py
