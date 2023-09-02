@@ -45,3 +45,6 @@ Furthermore, the dashboard will also be valuable for the HR industry by providin
 ![image](https://user-images.githubusercontent.com/74229021/233560069-440680df-f57b-43b7-8a03-5531659a0acd.png)
 
 Our pipeline scrapes data from job portals (Glassdoor, Jobstreet, Indeed), analyses it using sentiment analysis and Pandas, and uploads to MySQL. Automation is achieved with Airflow and Google Cloud Composer, with Tableau for visualisation. 
+
+Here's the link to our report on this project: [IS3107 Report.pdf](https://github.com/charlenechanmy/is3107-job-analytics-dashboard/files/12503355/IS3107.Report.pdf)
+
